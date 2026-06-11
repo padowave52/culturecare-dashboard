@@ -1,0 +1,7 @@
+아래 파일명을 그대로 맞춰 assets 폴더에 넣으면 웹페이지에서 자동 표시됩니다.
+figure_17_national_culturecare_vulnerability_map.png
+figure_19_lisa_cluster_map.png
+figure_23_spatial_priority_target_map.png
+figure_14_top20_targeted_policy_effect_heatmap.png
+figure_15_best_policy_by_high_risk_region.png
+figure_16_balanced_policy_before_after.png
